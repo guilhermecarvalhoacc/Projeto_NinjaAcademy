@@ -34,6 +34,11 @@ Simples assim.
 
 Mas cuidado! Nem todos os terrenos são seguros...
 
+## Beat Chart
+Fase 1 - nessa fase, o jogador aprende a pular e a chegar ao final do jogo.
+Fase 2 - aqui, o jogador vai aprender que existem terrenos que são perigosos e que o fazem voltar para o início 
+Fase 3 - e nessa fase, nosso ninja aprende que nem todos os caminhos óbvios são os melhores (se ele seguir todos não vai conseguir chegar na bandeira).
+
 ## Aprendizados
 Ao longo desse projeto, iteramos e pivotamos diversas vezes o que tínhamos como "certeza" antes. 
 A ideia inicial era usarmos ferramentas para fazermos o nosso jogador atravessar os obstáculos e chegar no final.
