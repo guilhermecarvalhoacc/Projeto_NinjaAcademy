@@ -10291,7 +10291,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade: 5
-  jumpforce: 7
+  jumpforce: 6
   isjumping: 0
 --- !u!95 &1929524254
 Animator:
