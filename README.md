@@ -27,6 +27,13 @@ Isso implica em saber:
 - desviar de obstáculos
 - identificar perigos
 
+## Descrição oficial
+Os ninjas surgiram na necessidade de terem agentes secretos durante o Japão Feudal. Eles tinham como função combater seus inimigos de maneira secreta.
+
+E assim, o Ninja Frog sempre sonhou em se tornar um Kage - o nível mais alto dos ninjas. Para isso, ele tem que passar por todas as etapas do treinamento.
+
+O ajude a conquistar novas habilidades e se formar na Academy Student - a etapa inicial do treinamento.
+
 ## How to play
 Aperte o espaço para pular e as setinhas (direita e esquerda) para se mover para os lados.
 
