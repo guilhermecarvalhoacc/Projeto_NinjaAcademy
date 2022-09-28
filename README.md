@@ -1,5 +1,8 @@
 # Ninja_Academy
 
+### Link do itch.io:
+https://andresabcb.itch.io/ninja-academy
+
 ## A ideia do jogo
 Os ninjas surgiram na necessidade de terem agentes secretos durante o Japão Feudal. Eles tinham como função combater seus inimigos de maneira secreta.
 No nosso jogo, queremos abordar a história e os fundamentos ninjas.
